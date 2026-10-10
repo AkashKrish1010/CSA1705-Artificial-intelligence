@@ -101,7 +101,7 @@ heuristic3 = {
 }
 
 
-print("Experiment 3 - A* Search Algorithm")
+print("Experiment 5 - A* Search Algorithm")
 print("=" * 45)
 
 path, cost = astar(graph1, heuristic1, 'A', 'G')
